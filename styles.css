@@ -42,18 +42,3 @@
       background-color: #45a049;
     }
 
-.form-row {
-  display: flex;
-  align-items: center;
-  margin-bottom: 12px;
-}
-
-.form-row label {
-  width: 120px;      /* aligns all labels */
-  font-weight: bold;
-}
-
-.form-row input {
-  flex: 1;
-  padding: 6px;
-}
